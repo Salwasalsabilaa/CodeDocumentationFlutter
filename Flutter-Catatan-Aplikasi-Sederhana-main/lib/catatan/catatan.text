@@ -1,0 +1,10 @@
+Belajar tanggal 23/10/2021
+//Validasi form dan isi text controller
+1. Menggunakan Form Pada NewNoteScreen.dart untuk TextFieldForm dan key,
+2. Key = _noteForm,
+3. Menggunakan TextFieldForm Untuk memakai Form,
+4. Membuat Variable titleController dan bodyController untuk memunculkan hasil dari
+apa yang user masukkan dari title dan isi pada New Form dan akan dimunculkan pada
+debug console.
+5. Membuat menambahkan submitNote pada ElevetedButton pada onPressed untuk ketika
+User mengKlik Save Pada bottom maka langsung memunculkan hasil pada debug console.
